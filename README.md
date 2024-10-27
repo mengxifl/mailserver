@@ -6,7 +6,7 @@ Dovecot + Postfix + Roundcube
 
 ## Scheme
 
-![image-20241027114249838](D:\Users\guotao.sun\AppData\Roaming\Typora\typora-user-images\image-20241027114249838.png)
+
 
 
 
