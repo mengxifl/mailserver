@@ -6,8 +6,7 @@ Dovecot + Postfix + Roundcube
 
 ## Scheme
 
-
-
+![image](https://github.com/user-attachments/assets/f28187cb-7bd9-4b1b-bc94-54834b13c4b9)
 
 
 ## describe scheme
