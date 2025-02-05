@@ -241,8 +241,8 @@ iterate_query = SELECT userid AS username, domain FROM users
 ```nginx
 ssl = required
 ssl_prefer_server_ciphers = yes
-ssl_cert = /runningconfig/cas/example.com.key
-ssl_key = /runningconfig/cas/example.com.crt
+ssl_cert = /runningconfig/cas/example.com.crt
+ssl_key = /runningconfig/cas/example.com.key
 ```
 
 ### start
